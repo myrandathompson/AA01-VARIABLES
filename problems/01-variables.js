@@ -7,7 +7,7 @@ test your work by running your code and the test specs!
 //    as a string:
 
 // Your code here 
-
+let firstName = 'Myranda';
 
 // 2. Declare a variable called `lastName` and assign it your last name
 //    as a string:
